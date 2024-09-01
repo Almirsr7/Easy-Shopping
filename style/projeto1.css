@@ -40,6 +40,7 @@ header {
 section {
     margin-left: 76px;
     display: inline-block;
+    position: absolute;
 }
 
 h1 {
@@ -98,6 +99,7 @@ p {
 
     .section{
         margin: 0;
+        position: static;
 
     }
 
