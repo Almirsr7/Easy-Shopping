@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: #aa2247;
+    text-align: center;
+    padding-top: 30px;
+    /* padding: 50px; cresce de dentro para fora */
+   /* margin: 20px; cria um espaço fora */
+}
